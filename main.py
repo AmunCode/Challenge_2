@@ -28,3 +28,4 @@ while user_guess != random_numb:
 
 print(f"You have guess the correct number in {attempt_taken} attempt!")
   
+# Since you oened that can of worms, you should ensure every user entry is valid. Goob Job going above an beyond on the project.
